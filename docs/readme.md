@@ -4,7 +4,6 @@
 
 ## Table of Contents
 
-- [Introduction](introduction.md)
 - [Installing and Running](installing-and-running.md)
 - [Architecture](architecture.md)
 - [Command Line Interface](cli.md)
