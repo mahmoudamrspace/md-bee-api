@@ -1,5 +1,7 @@
 # MD Bee REST API Test
 
+[Full documentation here](/docs/readme.md)
+
 ## Table of Contents <!-- omit in toc -->
 
 - [Features](#features)
